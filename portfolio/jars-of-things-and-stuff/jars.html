@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+		<meta charset="utf-8" />
+		<title>dalton newbend</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="icon" href="favicon.png" />
+		<link rel="stylesheet" href="../portfolio-styles.css" />
+		<meta name="description" content="dalton newbend"
+	</head>
+	<body>
+	   <nav>
+		  <label class="logo"><a href="../../index.html">dalton newbend</lable>
+			<ul class="sidebar">
+			<li class="menu-exit" onclick=hideSidebar()><a href="#"><svg xmlns="http://www.w3.org/2000/svg" height="25" viewBox="0 -960 960 960" width="25"><path d="m249-207-42-42 231-231-231-231 42-42 231 231 231-231 42 42-231 231 231 231-42 42-231-231-231 231Z"/></svg></li>
+			<li><a href="../../index.html">home</a></li>
+			<li><a href="../../portfolio/portfolio.html">portfolio</a></li>
+			<li><a href="../../cv.html">cv</a></li>
+			<li><a href="../../blog.html">blog</a></li>
+			<li><a href="../../about.html">about</a></li>
+			</ul>
+			<ul>
+			<li class="hideOnMobile"><a href="../../portfolio/portfolio.html">portfolio</a></li>
+			<li class="hideOnMobile" ><a href="../../cv.html">cv</a></li>
+			<li class="hideOnMobile" ><a href="../../blog.html">blog</a></li>
+			<li class="hideOnMobile" ><a href="../../contact.html">contact</a></li>
+			<li class="menu-button" onclick=showSidebar()><a href="#"><svg xmlns="http://www.w3.org/2000/svg" height="25" viewBox="0 -960 960 960" width="25"><path d="M120-240v-60h720v60H120Zm0-210v-60h720v60H120Zm0-210v-60h720v60H120Z"/></svg></li>
+			</ul>
+		</nav><br>
+	<script>
+	   function showSidebar(){
+			const sidebar = document.querySelector('.sidebar')
+			sidebar.style.display = 'flex'
+			}
+		function hideSidebar(){
+	    	const sidebar = document.querySelector('.sidebar')
+			sidebar.style.display = 'none'
+		    }
+	</script>
+    <section>
+        <h2>jars of things and stuff</h2>
+        <p>many items can be collected, and many can fit in a jar. for some, the jar is home, for others, it's simply a holding place. why do we choose to put certain things in jars and others in bins?</p>
+    </section>
+    <section>
+    <div class="container">
+        <div class="item-1"><img src="kitchen-wares-1.jpg" width="400px" alt="x" /><h2>jar of kitchen wares</h2></div>
+        <div class="item-2"><img src="kitchen-wares-3.jpg" width="400px" alt="x" /><h2>jar of kitchen wares</h2></div>
+        <div class="item-3"><img src="shells-and-shambles-3.jpg" width="400px" alt="x" /><h2>jar of shells and shambles</h2></div>
+        <div class="item-4"><img src="tincture-box.jpeg" width="400px" alt="x" /><h2>box of tinctures</h2></div>
+        <div class="item-5"><img src="all-tinctures-1.2.24.jpeg" width="400px" alt="x" /><h2>all tinctures</h2></div>
+        <div class="item-6"><img src="cotton-tincture.jpeg" width="400px" alt="x" /><h2>cotton tincture</h2></div>
+        <div class="item-7"><img src="domestic-wool.jpeg" width="400px" alt="x" /><h2>domestic wool tincture</h2></div>
+        <div class="item-8"><img src="55.jpg" width="400px" alt="x" /><h2>$55, (terrarium)</h2></div>
+    </div>
+    </section>
+    <html>
+        <meta name="author" content="Dalton Newbend" />
+    </html>
+</html>
