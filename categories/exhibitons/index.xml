@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Exhibitons on dalton newbend</title>
-    <link>http://localhost:1313/categories/exhibitons/</link>
+    <link>https://dalton.newbend.art/categories/exhibitons/</link>
     <description>Recent content in Exhibitons on dalton newbend</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>daltonnewbend@proton.me (dalton newbend)</managingEditor>
     <webMaster>daltonnewbend@proton.me (dalton newbend)</webMaster>
-    <lastBuildDate>Wed, 05 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/exhibitons/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dalton.newbend.art/categories/exhibitons/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>parker house rolls cafe</title>
-      <link>http://localhost:1313/shows/parker-house-rolls-cafe/</link>
+      <link>https://dalton.newbend.art/shows/parker-house-rolls-cafe/</link>
       <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate><author>daltonnewbend@proton.me (dalton newbend)</author>
-      <guid>http://localhost:1313/shows/parker-house-rolls-cafe/</guid>
-        <media:content url="http://localhost:1313/shows/parker-house-rolls-cafe/1_hu_d074d373ccf23802.jpg" type="image/jpeg"/>
+      <guid>https://dalton.newbend.art/shows/parker-house-rolls-cafe/</guid>
+        <media:content url="https://dalton.newbend.art/shows/parker-house-rolls-cafe/1_hu_d074d373ccf23802.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/shows/parker-house-rolls-cafe/1_hu_d074d373ccf23802.jpg&quot; /&gt;
+          &lt;img src=&quot;https://dalton.newbend.art/shows/parker-house-rolls-cafe/1_hu_d074d373ccf23802.jpg&quot; /&gt;
           &lt;p&gt;An experiment embarks in parker house rolls cafe where viewers step into the thoughts and process of a young homemaker and prose writer who worships nostalgia and material. See through their eyes the wonders of bric-a-brac, tools, and furniture. Where the lines between precious and worthless are forgotten, and company is always welcome.&lt;/p&gt;
         </description></item>
     <item>
       <title>drifting into the later</title>
-      <link>http://localhost:1313/shows/drifting-into-the-later/</link>
+      <link>https://dalton.newbend.art/shows/drifting-into-the-later/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate><author>daltonnewbend@proton.me (dalton newbend)</author>
-      <guid>http://localhost:1313/shows/drifting-into-the-later/</guid>
-        <media:content url="http://localhost:1313/shows/drifting-into-the-later/1_hu_c1298e78e5af0002.jpg" type="image/jpeg"/>
+      <guid>https://dalton.newbend.art/shows/drifting-into-the-later/</guid>
+        <media:content url="https://dalton.newbend.art/shows/drifting-into-the-later/1_hu_c1298e78e5af0002.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/shows/drifting-into-the-later/1_hu_c1298e78e5af0002.jpg&quot; /&gt;
+          &lt;img src=&quot;https://dalton.newbend.art/shows/drifting-into-the-later/1_hu_c1298e78e5af0002.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>domestic_recipe</title>
-      <link>http://localhost:1313/shows/domestic_recipe/</link>
+      <link>https://dalton.newbend.art/shows/domestic_recipe/</link>
       <pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate><author>daltonnewbend@proton.me (dalton newbend)</author>
-      <guid>http://localhost:1313/shows/domestic_recipe/</guid>
-        <media:content url="http://localhost:1313/shows/domestic_recipe/domestic-recipe-1_hu_1be9e67709809055.jpg" type="image/jpeg"/>
+      <guid>https://dalton.newbend.art/shows/domestic_recipe/</guid>
+        <media:content url="https://dalton.newbend.art/shows/domestic_recipe/domestic-recipe-1_hu_1be9e67709809055.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/shows/domestic_recipe/domestic-recipe-1_hu_1be9e67709809055.jpg&quot; /&gt;
+          &lt;img src=&quot;https://dalton.newbend.art/shows/domestic_recipe/domestic-recipe-1_hu_1be9e67709809055.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
   </channel>
