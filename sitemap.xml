@@ -2,56 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dalton.newbend.art/shows/</loc>
+    <loc>http://localhost:1313/shows/</loc>
     <lastmod>2025-11-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dalton.newbend.art/works/</loc>
+    <loc>http://localhost:1313/works/</loc>
     <lastmod>2025-11-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dalton.newbend.art/studio-drop/</loc>
+    <loc>http://localhost:1313/studio-drop/</loc>
   </url><url>
-    <loc>https://dalton.newbend.art/archive/</loc>
+    <loc>http://localhost:1313/archive/</loc>
     <lastmod>2022-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dalton.newbend.art/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-11-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dalton.newbend.art/works/anthologies/</loc>
+    <loc>http://localhost:1313/works/anthologies/</loc>
     <lastmod>2025-11-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dalton.newbend.art/works/homes/</loc>
+    <loc>http://localhost:1313/works/homes/</loc>
     <lastmod>2025-11-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dalton.newbend.art/categories/exhibitons/</loc>
+    <loc>http://localhost:1313/categories/exhibitons/</loc>
     <lastmod>2025-11-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dalton.newbend.art/shows/parker-house-rolls-cafe/</loc>
+    <loc>http://localhost:1313/shows/parker-house-rolls-cafe/</loc>
     <lastmod>2025-11-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dalton.newbend.art/categories/series/</loc>
+    <loc>http://localhost:1313/categories/series/</loc>
     <lastmod>2025-11-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dalton.newbend.art/works/shrines/</loc>
+    <loc>http://localhost:1313/works/shrines/</loc>
     <lastmod>2025-11-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dalton.newbend.art/archive/separate-together/</loc>
+    <loc>http://localhost:1313/archive/separate-together/</loc>
     <lastmod>2022-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dalton.newbend.art/shows/drifting-into-the-later/</loc>
+    <loc>http://localhost:1313/shows/drifting-into-the-later/</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dalton.newbend.art/categories/archive/</loc>
+    <loc>http://localhost:1313/categories/archive/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dalton.newbend.art/categories/shows/</loc>
+    <loc>http://localhost:1313/categories/shows/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dalton.newbend.art/archive/the-forest/</loc>
+    <loc>http://localhost:1313/archive/the-forest/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dalton.newbend.art/shows/domestic_recipe/</loc>
+    <loc>http://localhost:1313/shows/domestic_recipe/</loc>
     <lastmod>2019-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dalton.newbend.art/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url>
 </urlset>

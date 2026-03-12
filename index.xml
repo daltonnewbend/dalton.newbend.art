@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>dalton newbend</title>
-    <link>https://dalton.newbend.art/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on dalton newbend</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>daltonnewbend@proton.me (dalton newbend)</managingEditor>
     <webMaster>daltonnewbend@proton.me (dalton newbend)</webMaster>
-    <lastBuildDate>Wed, 05 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dalton.newbend.art/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>studio drop</title>
-      <link>https://dalton.newbend.art/studio-drop/</link>
+      <link>http://localhost:1313/studio-drop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>daltonnewbend@proton.me (dalton newbend)</author>
-      <guid>https://dalton.newbend.art/studio-drop/</guid>
-        <media:content url="https://dalton.newbend.art/studio-drop/IMG_1395_hu_484798830ef0b8bf.JPG" type="image/jpeg"/>
+      <guid>http://localhost:1313/studio-drop/</guid>
+        <media:content url="http://localhost:1313/studio-drop/IMG_1395_hu_484798830ef0b8bf.JPG" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://dalton.newbend.art/studio-drop/IMG_1395_hu_484798830ef0b8bf.JPG&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/studio-drop/IMG_1395_hu_484798830ef0b8bf.JPG&quot; /&gt;
           &lt;p&gt;random images from the studio&lt;/p&gt;
         </description></item>
     <item>
       <title>anthologies</title>
-      <link>https://dalton.newbend.art/works/anthologies/</link>
+      <link>http://localhost:1313/works/anthologies/</link>
       <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate><author>daltonnewbend@proton.me (dalton newbend)</author>
-      <guid>https://dalton.newbend.art/works/anthologies/</guid>
-        <media:content url="https://dalton.newbend.art/works/anthologies/IMG_9178_hu_129217724f02e869.JPEG" type="image/jpeg"/>
+      <guid>http://localhost:1313/works/anthologies/</guid>
+        <media:content url="http://localhost:1313/works/anthologies/IMG_9178_hu_129217724f02e869.JPEG" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://dalton.newbend.art/works/anthologies/IMG_9178_hu_129217724f02e869.JPEG&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/works/anthologies/IMG_9178_hu_129217724f02e869.JPEG&quot; /&gt;
           &lt;p&gt;anthologies are collections of prints, drawings, textiles, and other. they codify the two-dimensional into an object meant to be handled and explored.&lt;/p&gt;
         </description></item>
     <item>
       <title>assortment of homes</title>
-      <link>https://dalton.newbend.art/works/homes/</link>
+      <link>http://localhost:1313/works/homes/</link>
       <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate><author>daltonnewbend@proton.me (dalton newbend)</author>
-      <guid>https://dalton.newbend.art/works/homes/</guid>
-        <media:content url="https://dalton.newbend.art/works/homes/a_hu_5af2ad8542d1da3d.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/works/homes/</guid>
+        <media:content url="http://localhost:1313/works/homes/a_hu_5af2ad8542d1da3d.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://dalton.newbend.art/works/homes/a_hu_5af2ad8542d1da3d.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/works/homes/a_hu_5af2ad8542d1da3d.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>parker house rolls cafe</title>
-      <link>https://dalton.newbend.art/shows/parker-house-rolls-cafe/</link>
+      <link>http://localhost:1313/shows/parker-house-rolls-cafe/</link>
       <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate><author>daltonnewbend@proton.me (dalton newbend)</author>
-      <guid>https://dalton.newbend.art/shows/parker-house-rolls-cafe/</guid>
-        <media:content url="https://dalton.newbend.art/shows/parker-house-rolls-cafe/1_hu_d074d373ccf23802.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/shows/parker-house-rolls-cafe/</guid>
+        <media:content url="http://localhost:1313/shows/parker-house-rolls-cafe/1_hu_d074d373ccf23802.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://dalton.newbend.art/shows/parker-house-rolls-cafe/1_hu_d074d373ccf23802.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/shows/parker-house-rolls-cafe/1_hu_d074d373ccf23802.jpg&quot; /&gt;
           &lt;p&gt;An experiment embarks in parker house rolls cafe where viewers step into the thoughts and process of a young homemaker and prose writer who worships nostalgia and material. See through their eyes the wonders of bric-a-brac, tools, and furniture. Where the lines between precious and worthless are forgotten, and company is always welcome.&lt;/p&gt;
         </description></item>
     <item>
       <title>shrines of the maker</title>
-      <link>https://dalton.newbend.art/works/shrines/</link>
+      <link>http://localhost:1313/works/shrines/</link>
       <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate><author>daltonnewbend@proton.me (dalton newbend)</author>
-      <guid>https://dalton.newbend.art/works/shrines/</guid>
-        <media:content url="https://dalton.newbend.art/works/shrines/1_hu_2f06e97d14d73bcf.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/works/shrines/</guid>
+        <media:content url="http://localhost:1313/works/shrines/1_hu_2f06e97d14d73bcf.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://dalton.newbend.art/works/shrines/1_hu_2f06e97d14d73bcf.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/works/shrines/1_hu_2f06e97d14d73bcf.jpg&quot; /&gt;
           &lt;p&gt;Shrines are an effort to explore spirituality through the lens of craft. Constructed to honor the makers of all things involved in the shrine, from the trees who grew the lumber, to the artisan who wove the bowl, viewers are offered a moment of silence with the objects and materials considered. To build the shrines I create collections of items akin to an arsenal of tools. When an installation materializes through these objects, they work like moments and movements in musical works. Like an overture, various phrases, or images, are repeated in later movements or compositions. Working with primarily found objects, I&#39;m attracted to the history, life, and sexuality objects can possess.&lt;/p&gt;
         </description></item>
     <item>
       <title>separate together</title>
-      <link>https://dalton.newbend.art/archive/separate-together/</link>
+      <link>http://localhost:1313/archive/separate-together/</link>
       <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate><author>daltonnewbend@proton.me (dalton newbend)</author>
-      <guid>https://dalton.newbend.art/archive/separate-together/</guid>
-        <media:content url="https://dalton.newbend.art/archive/separate-together/1_hu_4493d1fd289a33b8.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/archive/separate-together/</guid>
+        <media:content url="http://localhost:1313/archive/separate-together/1_hu_4493d1fd289a33b8.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://dalton.newbend.art/archive/separate-together/1_hu_4493d1fd289a33b8.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/archive/separate-together/1_hu_4493d1fd289a33b8.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>drifting into the later</title>
-      <link>https://dalton.newbend.art/shows/drifting-into-the-later/</link>
+      <link>http://localhost:1313/shows/drifting-into-the-later/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate><author>daltonnewbend@proton.me (dalton newbend)</author>
-      <guid>https://dalton.newbend.art/shows/drifting-into-the-later/</guid>
-        <media:content url="https://dalton.newbend.art/shows/drifting-into-the-later/1_hu_c1298e78e5af0002.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/shows/drifting-into-the-later/</guid>
+        <media:content url="http://localhost:1313/shows/drifting-into-the-later/1_hu_c1298e78e5af0002.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://dalton.newbend.art/shows/drifting-into-the-later/1_hu_c1298e78e5af0002.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/shows/drifting-into-the-later/1_hu_c1298e78e5af0002.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>the forest</title>
-      <link>https://dalton.newbend.art/archive/the-forest/</link>
+      <link>http://localhost:1313/archive/the-forest/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate><author>daltonnewbend@proton.me (dalton newbend)</author>
-      <guid>https://dalton.newbend.art/archive/the-forest/</guid>
-        <media:content url="https://dalton.newbend.art/archive/the-forest/the-forest-1_hu_5be0a5ef231698a9.jpeg" type="image/jpeg"/>
+      <guid>http://localhost:1313/archive/the-forest/</guid>
+        <media:content url="http://localhost:1313/archive/the-forest/the-forest-1_hu_5be0a5ef231698a9.jpeg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://dalton.newbend.art/archive/the-forest/the-forest-1_hu_5be0a5ef231698a9.jpeg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/archive/the-forest/the-forest-1_hu_5be0a5ef231698a9.jpeg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>domestic_recipe</title>
-      <link>https://dalton.newbend.art/shows/domestic_recipe/</link>
+      <link>http://localhost:1313/shows/domestic_recipe/</link>
       <pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate><author>daltonnewbend@proton.me (dalton newbend)</author>
-      <guid>https://dalton.newbend.art/shows/domestic_recipe/</guid>
-        <media:content url="https://dalton.newbend.art/shows/domestic_recipe/domestic-recipe-1_hu_1be9e67709809055.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/shows/domestic_recipe/</guid>
+        <media:content url="http://localhost:1313/shows/domestic_recipe/domestic-recipe-1_hu_1be9e67709809055.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://dalton.newbend.art/shows/domestic_recipe/domestic-recipe-1_hu_1be9e67709809055.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/shows/domestic_recipe/domestic-recipe-1_hu_1be9e67709809055.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
   </channel>

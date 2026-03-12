@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Archive on dalton newbend</title>
-    <link>https://dalton.newbend.art/categories/archive/</link>
+    <link>http://localhost:1313/categories/archive/</link>
     <description>Recent content in Archive on dalton newbend</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>daltonnewbend@proton.me (dalton newbend)</managingEditor>
     <webMaster>daltonnewbend@proton.me (dalton newbend)</webMaster>
-    <lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://dalton.newbend.art/categories/archive/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/archive/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>the forest</title>
-      <link>https://dalton.newbend.art/archive/the-forest/</link>
+      <link>http://localhost:1313/archive/the-forest/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate><author>daltonnewbend@proton.me (dalton newbend)</author>
-      <guid>https://dalton.newbend.art/archive/the-forest/</guid>
-        <media:content url="https://dalton.newbend.art/archive/the-forest/the-forest-1_hu_5be0a5ef231698a9.jpeg" type="image/jpeg"/>
+      <guid>http://localhost:1313/archive/the-forest/</guid>
+        <media:content url="http://localhost:1313/archive/the-forest/the-forest-1_hu_5be0a5ef231698a9.jpeg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://dalton.newbend.art/archive/the-forest/the-forest-1_hu_5be0a5ef231698a9.jpeg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/archive/the-forest/the-forest-1_hu_5be0a5ef231698a9.jpeg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
   </channel>
