@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series, Archive on dalton newbend</title>
+    <link>http://localhost:1313/categories/series-archive/</link>
+    <description>Recent content in Series, Archive on dalton newbend</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>daltonnewbend@proton.me (dalton newbend)</managingEditor>
+    <webMaster>daltonnewbend@proton.me (dalton newbend)</webMaster><atom:link href="http://localhost:1313/categories/series-archive/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>separate together</title>
+      <link>http://localhost:1313/archive/separate-together/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>daltonnewbend@proton.me (dalton newbend)</author>
+      <guid>http://localhost:1313/archive/separate-together/</guid>
+        <media:content url="http://localhost:1313/archive/separate-together/separate-together-02_hu_aef019e446a1bf9e.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/archive/separate-together/separate-together-02_hu_aef019e446a1bf9e.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
