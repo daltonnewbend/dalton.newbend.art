@@ -8,7 +8,7 @@
     <language>en-us</language>
     <managingEditor>daltonnewbend@proton.me (dalton newbend)</managingEditor>
     <webMaster>daltonnewbend@proton.me (dalton newbend)</webMaster>
-    <lastBuildDate>Wed, 05 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dalton.newbend.art/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dalton.newbend.art/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>studio drop</title>
       <link>https://dalton.newbend.art/studio-drop/</link>
@@ -18,6 +18,16 @@
         <description>
           &lt;img src=&quot;https://dalton.newbend.art/studio-drop/IMG_1395_hu_484798830ef0b8bf.JPG&quot; /&gt;
           &lt;p&gt;random images from the studio&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>SHED SHOW</title>
+      <link>https://dalton.newbend.art/shows/shed-show/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate><author>daltonnewbend@proton.me (dalton newbend)</author>
+      <guid>https://dalton.newbend.art/shows/shed-show/</guid>
+        <media:content url="https://dalton.newbend.art/shows/shed-show/IMG_5655_hu_77eefe3942d2d9f4.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://dalton.newbend.art/shows/shed-show/IMG_5655_hu_77eefe3942d2d9f4.jpg&quot; /&gt;
+          &lt;p&gt;coming soon!&lt;/p&gt;
         </description></item>
     <item>
       <title>anthologies</title>
